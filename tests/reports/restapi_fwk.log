@@ -1,0 +1,2 @@
+""2021-10-05 17:21:40" DEBUG Starting new HTTPS connection (1): httpbin.org"
+""2021-10-05 17:21:42" DEBUG https://httpbin.org:443 "GET /cookies HTTP/1.1" 200 20"
